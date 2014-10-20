@@ -1,8 +1,8 @@
 # pycharm files
 .idea
 
-# pdf files
-*.pdf
+# pdf files nope
+
 
 # python compiled pyc
 *.pyc
