@@ -17,7 +17,7 @@ mxm_dataset_to_db -- takes 3 arguments:
 3. output sqlite file  
 Takes the records contained in 1 & 2 and builds the .db file in 3  
 
-fill_genres -- takes 2 arguments:
+fill_genres -- takes 2 arguments:  
 1. dataset genre file  
 2. output sqlite file  
 Iterates over the genre file and fills the genre field in the sqlite db  
