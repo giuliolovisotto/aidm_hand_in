@@ -1,0 +1,27 @@
+# pycharm files
+.idea
+
+# pdf files
+*.pdf
+
+# python compiled pyc
+*.pyc
+
+*.*~
+*.aux
+*.ps
+*.log
+*.dvi
+*.tex~
+*.bbl
+*.blg
+*_latexmk
+*synctex.gz
+
+# dolphin files
+*.directory
+
+# ignored bc it is too large, you can just generate it
+assign1/maintask_stuff/*.db
+assign1/maintask_stuff/mxm_dataset_train.txt
+assign1/maintask_stuff/mxm_dataset_test.txt
