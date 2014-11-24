@@ -12,9 +12,5 @@ In this repository you find the following files:
 6.  main.py — contains the main   
 7.  shrinkup.py -- randomly sample a fraction of the dataset, used to test correctness fast  
 8.  similarities.py -- contains different similarity measures  
-9.  split_matrix — used for ALS algorithm parallelisation  
+9.  split_matrix.py — used for ALS algorithm parallelisation  
   
-
-#Notes#
-We didn't include datasets (neither the original version, nor the normalized one) in this repository because they are too large and since they are available online. 
-Look in the report references to find them.
